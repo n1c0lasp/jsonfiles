@@ -1,0 +1,96 @@
+{
+    "searchParameters": {
+        "q": "site:myshopify.com \"mentions légales\" \"siren\"",
+        "gl": "fr",
+        "hl": "fr",
+        "num": 40,
+        "autocorrect": true,
+        "page": 6,
+        "type": "search"
+    },
+    "organic": [
+        {
+            "title": "Montres homme - Nixon",
+            "link": "https://nixon-ca.myshopify.com/fr/collections/mens-watches",
+            "snippet": "Siren. $165.00. (24). Hannah Eddy Time Teller OPP - Noir / Jaune ... Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 1
+        },
+        {
+            "title": "Montres femme - Nixon",
+            "link": "https://nixon-ca.myshopify.com/fr/collections/womens-watches",
+            "snippet": "Siren. $165.00. (24). Hannah Eddy Time Teller OPP - Noir / Jaune ... Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 2
+        },
+        {
+            "title": "Nous Contacter - Ceinturion",
+            "link": "https://carspace1.myshopify.com/contact",
+            "snippet": "Conditions Générales de vente · FAQs - Questions Fréquentes · Mentions légales · Nous Contacter · Politique de confidentialité ... SIREN : 912339108.",
+            "position": 3
+        },
+        {
+            "title": "Surf F-one Mitu Pro Flex 5'2'' 2021/2022 occasion - Barooders",
+            "link": "https://barooders.myshopify.com/products/surf-f-one-mitu-pro-flex-52-2021-2022-occasion",
+            "snippet": "Twin tip cabrinha XO siren signature model Payez en 4x ... FAQ · Mentions légales · Politique de confidentialité · Politique de remboursement · C.G.V.",
+            "position": 4
+        },
+        {
+            "title": "Montre Time Teller | Noir Uni / Metallica | Unisex – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/time-teller-all-black-metallica",
+            "snippet": "Siren. $165.00. (24). Regulus Expedition - Noir uni ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.8,
+            "ratingCount": 287,
+            "position": 5
+        },
+        {
+            "title": "Nike Dunk Low Disrupt 2 Malachite | Kikikickz",
+            "link": "https://kikikickz-club.myshopify.com/products/dunk-low-disrupt-2-malachite?awc=24475_1685714959_831453b97b69540ae2c408576d5c8358&utm_source=awin&utm_medium=affiliation&utm_campaign=1115489",
+            "snippet": "Baskets Dunk Low Disrupt Siren Red pour homme et femme en vente sur Kikikickz. Nike ... Recrutement · Mentions légales · Conditions Générales de Vente ...",
+            "position": 6
+        },
+        {
+            "title": "FAQs - Questions Fréquentes - Ceinturion",
+            "link": "https://carspace1.myshopify.com/pages/faqs-questions-frequentes",
+            "snippet": "Conditions Générales de vente · FAQs - Questions Fréquentes · Mentions légales · Nous Contacter · Politique de confidentialité ... SIREN : 912339108.",
+            "position": 7
+        },
+        {
+            "title": "5 manières de trouver un nom de groupe qui a la classe - Confliktarts",
+            "link": "https://confliktarts-shop.myshopify.com/blogs/news/5-manieres-de-trouver-un-nom-de-groupe-qui-a-la-classe",
+            "snippet": "Livraison · Mentions légales · Conditions générales de vente et de production · Politique de ... RCS Rennes SIREN 492 539 523",
+            "date": "23 janv. 2019",
+            "position": 8
+        },
+        {
+            "title": "Les 10 phrases qui prouvent que vous devez quitter votre groupe - Confliktarts",
+            "link": "https://confliktarts-shop.myshopify.com/blogs/news/les-phrases-pas-completement-anodines-qui-prouvent-que-vous-devez-quitter-votre-groupe",
+            "snippet": "Livraison · Mentions légales · Conditions générales de vente et de production ... RCS Rennes SIREN 492 539 523",
+            "date": "23 janv. 2019",
+            "position": 9
+        },
+        {
+            "title": "Nike Dunk Low Disrupt 2 Panda - Kikikickz",
+            "link": "https://kikikickz-club.myshopify.com/products/dunk-low-disrupt-2-panda?awc=24475_1675032974_aa20782d22ee3549b18956f10f46b805&utm_source=awin&utm_medium=affiliation&utm_campaign=737541",
+            "snippet": "Baskets Dunk Low Disrupt Siren Red pour homme et femme en vente sur Kikikickz. Nike ... Recrutement · Mentions légales · Conditions Générales de Vente ...",
+            "position": 10
+        },
+        {
+            "title": "Les différentes manières de virer son batteur en lui faisant croire que c'est lui qui part",
+            "link": "https://confliktarts-shop.myshopify.com/blogs/news/les-differentes-manieres-de-virer-son-batteur-en-lui-faisant-croire-que-cest-lui-qui-part",
+            "snippet": "Livraison · Mentions légales · Conditions générales de vente et de production · Politique de ... RCS Rennes SIREN 492 539 523",
+            "date": "23 janv. 2019",
+            "position": 11
+        },
+        {
+            "title": "Le Songe - Nina Urlichs – Maison Jeanne Grâce",
+            "link": "https://maisonjeannegrace.myshopify.com/products/le-songe",
+            "snippet": "Mentions légales. SARL Jeanne Grâce ; Siège social 1 rue du Marché Notre Dame 86000 Poitiers - Num Siren 905351169 - TVA: FR72905351169 ...",
+            "position": 12
+        },
+        {
+            "title": "法律声明– AHEXIO PREMIUM SAS",
+            "link": "https://ahexio-premium-sas.myshopify.com/zh/pages/mentions-legales",
+            "snippet": "公司标识：SAS AHEXIO PREMIUM，股本为1000 欧元- SIREN：902197540 - RCS 或RM：巴黎B 902 197 540 - 邮政地址：9 rue du chevalier de saint George.",
+            "position": 13
+        }
+    ]
+}

@@ -1,0 +1,735 @@
+{
+    "searchParameters": {
+        "q": "site:https://www.laredoute.fr/prtngp/ \"TVA\"",
+        "gl": "fr",
+        "hl": "fr",
+        "num": 100,
+        "autocorrect": true,
+        "page": 3,
+        "type": "search"
+    },
+    "organic": [
+        {
+            "title": "IMS - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-13443.aspx",
+            "snippet": "Adresse : 117 rue de Charenton, 75012 PARIS. Numéro de RCS : 825 161 144 00019. N° de TVA intracommunautaire : FR85825161144. Capital social : 50 000 €.",
+            "rating": 3,
+            "ratingCount": 21,
+            "position": 1
+        },
+        {
+            "title": "Yours Clothing - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-660541.aspx",
+            "snippet": "N° de TVA intracommunautaire : GB638327229. Capital social : 132 339 600€. Avis clients. 18. 3,2. (18). Ces avis sont authentiques et classés par défaut par ...",
+            "rating": 3.2,
+            "ratingCount": 18,
+            "position": 2
+        },
+        {
+            "title": "Wadiga - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700303.aspx",
+            "snippet": "Adresse : 34 RUE ALAIN PERONNAU - 33830 BELIN-BELIET. Numéro de RCS : BORDEAUX 788 880 136. N° de TVA intracommunautaire : FR82788880136.",
+            "rating": 3.7,
+            "ratingCount": 135,
+            "position": 3
+        },
+        {
+            "title": "Emma Matelas - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-660461.aspx",
+            "snippet": "Adresse : Wilhelm-Leuschner-Strabe 78 60329 FRANCFORT-SUR-LE-MAIN ALLEMAGNE. Numéro de RCS : HRB103278. N° de TVA intracommunautaire : DE301904406.",
+            "position": 4
+        },
+        {
+            "title": "Zibi London - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700507.aspx",
+            "snippet": "Adresse : 2 rue des Genets - Zone Artisanale, 53480 VAIGES. Numéro de RCS : Laval 894 112 853. N° de TVA intracommunautaire : FR93894112853.",
+            "position": 5
+        },
+        {
+            "title": "1001 Nuits Enchantées - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700175.aspx",
+            "snippet": "Adresse : 9 rue du Jasmin PAV 73, 91000 Evry-Courcouronnes. Numéro de RCS : EVRY 529 746 760. N° de TVA intracommunautaire : FR52529746760.",
+            "rating": 3.8,
+            "ratingCount": 76,
+            "position": 6
+        },
+        {
+            "title": "Cravate Avenue - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-10519.aspx",
+            "snippet": "Adresse : 311 allée des Pommiers 01000 SAINT-DENIS-LÈS-BOURG. Numéro de RCS : 487 638 702. N° de TVA intracommunautaire : FR45487638702.",
+            "rating": 4.4,
+            "ratingCount": 103,
+            "position": 7
+        },
+        {
+            "title": "RSI-Fitworld - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700390.aspx",
+            "snippet": "Adresse : C/ EDUARDO DATO, 40 ESC.DRCHA 1º IZDA. Numéro de RCS : VITORIA-GASTEIZ (ALAVA) B95737383. N° de TVA intracommunautaire : ESB95737383.",
+            "rating": 4.1,
+            "ratingCount": 21,
+            "position": 8
+        },
+        {
+            "title": "Naf Naf - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700275.aspx",
+            "snippet": "Adresse : 2 rue Sarah Bernhardt, CS 20047, 92601 ASNIÈRES Cedex. Numéro de RCS : Bobigny 884 276 569. N° de TVA intracommunautaire : FR96884276569.",
+            "rating": 3.5,
+            "ratingCount": 70,
+            "position": 9
+        },
+        {
+            "title": "Alice's Garden - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-2145.aspx",
+            "snippet": "Adresse : 270 Avenue de l'Espace, 59118 WAMBRECHIES. Numéro de RCS : Lille Métropole 518 047 014. N° de TVA intracommunautaire : FR70518047014.",
+            "rating": 3.7,
+            "ratingCount": 316,
+            "position": 10
+        },
+        {
+            "title": "Lisa Design - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700541.aspx",
+            "snippet": "Adresse : 6 Route de Bapaume 59554 RAILLENCOURT-SAINTE-OLLE. Numéro de RCS : NANTERRE 794 974 956. N° de TVA intracommunautaire : FR 42 794 974 956.",
+            "rating": 2.4,
+            "ratingCount": 13,
+            "position": 11
+        },
+        {
+            "title": "Camif - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700666.aspx",
+            "snippet": "Adresse : 66, Rue Jacques Daguerre 79000 NIORT. Numéro de RCS : NIORT 402 467 120. N° de TVA intracommunautaire : FR80402467120.",
+            "rating": 3.5,
+            "ratingCount": 17,
+            "position": 12
+        },
+        {
+            "title": "Burton of London - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-659881.aspx",
+            "snippet": "N° de TVA intracommunautaire : FR42318148467. Capital social : 25 000 000 €. Avis clients. 19. 3,9. (19). Ces avis sont authentiques et classés par défaut ...",
+            "rating": 3.9,
+            "ratingCount": 19,
+            "position": 13
+        },
+        {
+            "title": "Protest - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-12801.aspx",
+            "snippet": "N° de TVA intracommunautaire : NL 82 429 845 7B02. Capital social : 25.136,73€. Avis clients. 68. 3,5. (68). Ces avis sont authentiques et classés par ...",
+            "rating": 3.5,
+            "ratingCount": 68,
+            "position": 14
+        },
+        {
+            "title": "Doux Good - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700236.aspx",
+            "snippet": "Adresse : 1 place Victor Basch, 69006 LYON. Numéro de RCS : Lyon 799 028 147. N° de TVA intracommunautaire : FR83799028147. Capital social : 238 000€.",
+            "position": 15
+        },
+        {
+            "title": "Theko - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-2441.aspx",
+            "snippet": "Adresse : Lohackerstraße 30, 44867 BOCHUM. Numéro de RCS : Amtsgericht Bochum HRB 2851. N° de TVA intracommunautaire : DE127062436.",
+            "rating": 3.9,
+            "ratingCount": 61,
+            "position": 16
+        },
+        {
+            "title": "GpasPlus - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-2794.aspx",
+            "snippet": "Siège social : 9 cité Riverin 75010 PARIS. Adresse : 9 cité Riverin 75010 PARIS. Numéro de RCS : 750 837 932. N° de TVA intracommunautaire : FR81750837932.",
+            "rating": 3,
+            "ratingCount": 85,
+            "position": 17
+        },
+        {
+            "title": "AS Discount - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-2551.aspx",
+            "snippet": "Adresse : ZA La Pitoisière 2 72170 MARESCHE. Numéro de RCS : 480 862 465. N° de TVA intracommunautaire : FR12480862465. Capital social : 10 000 €.",
+            "rating": 4.1,
+            "ratingCount": 577,
+            "position": 18
+        },
+        {
+            "title": "Ruckfield - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-13198.aspx",
+            "snippet": "Adresse : 675 chemin du Périgord 84130 LE PONTET. Numéro de RCS : 444 374 698. N° de TVA intracommunautaire : FR47444374698. Capital social : 60 000 €.",
+            "rating": 4.8,
+            "ratingCount": 8,
+            "position": 19
+        },
+        {
+            "title": "Kdesign - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700457.aspx",
+            "snippet": "Adresse : 808 Avenue des Fauvettes, 06410 Biot. Numéro de RCS : Nanterre 477 941 512. N° de TVA intracommunautaire : FR36477941512.",
+            "rating": 3.6,
+            "ratingCount": 200,
+            "position": 20
+        },
+        {
+            "title": "Variance - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-12148.aspx",
+            "snippet": "N° de TVA intracommunautaire : FR 66 388 634 883. Capital social : 10 000 000 €. Avis clients. 32. 3,8. (32). Ces avis sont authentiques et classés par ...",
+            "rating": 3.8,
+            "ratingCount": 32,
+            "position": 21
+        },
+        {
+            "title": "Lexon - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-12627.aspx",
+            "snippet": "Adresse : 125 Avenue des Champs Elysées 75008 PARIS. Numéro de RCS : 342979044 RCS PARIS. N° de TVA intracommunautaire : FR 41 342 979 044.",
+            "rating": 3.2,
+            "ratingCount": 6,
+            "position": 22
+        },
+        {
+            "title": "Molly Bracken - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700143.aspx",
+            "snippet": "Adresse : 68 rue de Hyères ZAC La Millonne 83140 SIX FOURS LES PLAGES. Numéro de RCS : TOULON 439 650 789. N° de TVA intracommunautaire : FR20439650789.",
+            "rating": 4.5,
+            "ratingCount": 86,
+            "position": 23
+        },
+        {
+            "title": "Artlove - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700215.aspx",
+            "snippet": "Adresse : 10 passage des taillandiers, 75011 Paris. Numéro de RCS : Paris 417 709 516. N° de TVA intracommunautaire : FR13417709516.",
+            "rating": 2.8,
+            "ratingCount": 5,
+            "position": 24
+        },
+        {
+            "title": "Mob In - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-660521.aspx",
+            "snippet": "Adresse : 33 rue de Reckem 59960 Neuville en Ferrain. Numéro de RCS : 528 193 741 R.C.S. Lille Métropole. N° de TVA intracommunautaire : FR 02 528 193 7 41.",
+            "rating": 3.7,
+            "ratingCount": 9,
+            "position": 25
+        },
+        {
+            "title": "Rendez Vous Deco - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-10067.aspx",
+            "snippet": "Adresse : 27 rue Saint-Simon, 69009 LYON. Numéro de RCS : Lyon 522 758 028. N° de TVA intracommunautaire : FR18522758028. Capital social : 70 792€.",
+            "rating": 3.8,
+            "ratingCount": 264,
+            "position": 26
+        },
+        {
+            "title": "LeMagDéco - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-12970.aspx",
+            "snippet": "Adresse : 15 Rue traversière,75012 PARIS. Numéro de RCS : 820.274.041. N° de TVA intracommunautaire : FR 35 820 274 041. Capital social : 1000. Avis clients ...",
+            "rating": 3.3,
+            "ratingCount": 49,
+            "position": 27
+        },
+        {
+            "title": "Bons Baisers de Paname - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700421.aspx",
+            "snippet": "Adresse : 15 rue Monsigny 75002 Paris. Numéro de RCS : PARIS B 828 275 420. N° de TVA intracommunautaire : FR67828275420. Capital social : 100 000 €.",
+            "rating": 2.7,
+            "ratingCount": 11,
+            "position": 28
+        },
+        {
+            "title": "Dupond Durand - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-10890.aspx",
+            "snippet": "Adresse : 42, sentier benoit Malon 94800 Villejuif. Numéro de RCS : Créteil B 492 890 207. N° de TVA intracommunautaire : FR 14 492 890 207 000 11.",
+            "rating": 3.8,
+            "ratingCount": 80,
+            "position": 29
+        },
+        {
+            "title": "Concept Usine - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-1866.aspx",
+            "snippet": "Adresse : 116 route d 'Espagne 31100 TOULOUSE. Numéro de RCS : Toulouse 887 735 405. N° de TVA intracommunautaire : FR29887735405.",
+            "rating": 3.2,
+            "ratingCount": 82,
+            "position": 30
+        },
+        {
+            "title": "Camper - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700228.aspx",
+            "snippet": "Adresse : C/ Cuartel, 91, 07300, Inca. Mallorca, Illes Balears SPAIN. Numéro de RCS : PARIS 602 040 412. N° de TVA intracommunautaire : ESB57687295.",
+            "rating": 4.1,
+            "ratingCount": 18,
+            "position": 31
+        },
+        {
+            "title": "Jardindeco - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700071.aspx",
+            "snippet": "Adresse : 22 rue du Bois d'Amour, 86000 POITIERS. Numéro de RCS : POITIERS 752 655 860. N° de TVA intracommunautaire : FR40752655860.",
+            "rating": 3.8,
+            "ratingCount": 183,
+            "position": 32
+        },
+        {
+            "title": "El Corte Ingles - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-11450.aspx",
+            "snippet": "Siège social : HERMOSILLA 112, MADRID. Adresse : HERMOSILLA 112, MADRID. Numéro de RCS : A 28017895 MADRID. N° de TVA intracommunautaire : ES A 28017895.",
+            "rating": 3,
+            "ratingCount": 884,
+            "position": 33
+        },
+        {
+            "title": "Wecon Home - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-655181.aspx",
+            "snippet": "Adresse : Am Hünengrab 5, 16928 Pritzwalk / Falkenhagen. Numéro de RCS : DE 249 083 683. N° de TVA intracommunautaire : DE249083683.",
+            "rating": 3.9,
+            "ratingCount": 19,
+            "position": 34
+        },
+        {
+            "title": "Krea - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700345.aspx",
+            "snippet": "Adresse : Parc du Manet - 2 Allée des Aulnes, 78190 TRAPPES. Numéro de RCS : 810 145 334. N° de TVA intracommunautaire : FR37810145334.",
+            "rating": 3.2,
+            "ratingCount": 13,
+            "position": 35
+        },
+        {
+            "title": "Project X Paris - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-659601.aspx",
+            "snippet": "Adresse : 290 rue de la Belle Etoile, 95700 Roissy-en-France. Numéro de RCS : PONTOISE 793 160 334. N° de TVA intracommunautaire : FR10793160334.",
+            "position": 36
+        },
+        {
+            "title": "Sacha - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-2676.aspx",
+            "snippet": "Adresse : 43 rue de béthune, 59000 Lille. Numéro de RCS : LILLE 517 905 451. N° de TVA intracommunautaire : FR 47 517 905 451. Capital social : 6.000 €.",
+            "rating": 3.7,
+            "ratingCount": 158,
+            "position": 37
+        },
+        {
+            "title": "Temahome Boutique Officielle - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700401.aspx",
+            "snippet": "Adresse : 7 rues des Vernaies, Zone Arrtisanale 74230 THONES. Numéro de RCS : Annecy 908 310 162. N° de TVA intracommunautaire : FR96908310162.",
+            "rating": 3.7,
+            "ratingCount": 10,
+            "position": 38
+        },
+        {
+            "title": "Homifab - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700340.aspx",
+            "snippet": "Adresse : 127 Cours de l'Yser, 33800 Bordeaux. Numéro de RCS : BORDEAUX 829634955. N° de TVA intracommunautaire : FR16829634955. Capital social : 100 000€.",
+            "position": 39
+        },
+        {
+            "title": "File dans ta chambre - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-10747.aspx",
+            "snippet": "Adresse : 5 route du Paisy 69570 DARDILLY. Numéro de RCS : 500 975 495. N° de TVA intracommunautaire : FR58500975495. Capital social : 118 143 €.",
+            "rating": 3.1,
+            "ratingCount": 10,
+            "position": 40
+        },
+        {
+            "title": "Simone Perele - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-660401.aspx",
+            "snippet": "N° de TVA intracommunautaire : FR 6 0 6 2 2 0 4 1 7 1 3. Capital social : 1 000 000,00 Euros. Avis clients. 10. 3,6. (10). Ces avis sont authentiques et ...",
+            "rating": 3.6,
+            "ratingCount": 10,
+            "position": 41
+        },
+        {
+            "title": "1001 Jouets - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-2095.aspx",
+            "snippet": "Adresse : 2 place Charles Fillion 75017 PARIS. Numéro de RCS : Paris 481 309 227. N° de TVA intracommunautaire : FR49481309227. Capital social : 120 000 €.",
+            "rating": 4,
+            "ratingCount": 16,
+            "position": 42
+        },
+        {
+            "title": "San Marina - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-660721.aspx",
+            "snippet": "N° de TVA intracommunautaire : FR 36 321 875 205. Capital social : 50 000 000€. Avis clients. 21. 3,3. (21). Ces avis sont authentiques et classés par ...",
+            "rating": 3.3,
+            "ratingCount": 21,
+            "position": 43
+        },
+        {
+            "title": "Kare Design - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700072.aspx",
+            "snippet": "Adresse : 40 rue François Groult - 56850 Caudan. Numéro de RCS : LORIENT 508 487 535. N° de TVA intracommunautaire : FR71508487535. Capital social : 50 000€.",
+            "rating": 3.9,
+            "ratingCount": 178,
+            "position": 44
+        },
+        {
+            "title": "Produit intérieur Brut - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-13453.aspx",
+            "snippet": "Adresse : 81 avenue Kléber 75016 PARIS. Numéro de RCS : 522 742 022. N° de TVA intracommunautaire : FR15522742022. Capital social : 70 000 €. Avis clients ...",
+            "rating": 3.6,
+            "ratingCount": 8,
+            "position": 45
+        },
+        {
+            "title": "DeFacto - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-662281.aspx",
+            "snippet": "N° de TVA intracommunautaire : DE327221632. Capital social : 50 000€. Avis clients. 18. 3,2. (18). Ces avis sont authentiques et classés par défaut par ...",
+            "rating": 3.2,
+            "ratingCount": 18,
+            "position": 46
+        },
+        {
+            "title": "Meubles et Design - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-656161.aspx",
+            "snippet": "Adresse : 15 rue Aristide Briand 59110 La Madeleine. Numéro de RCS : 818 838 849. N° de TVA intracommunautaire : FR95 818 838 849. Capital social : 10 000 €.",
+            "rating": 3.7,
+            "ratingCount": 18,
+            "position": 47
+        },
+        {
+            "title": "Yonis Shop - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-2806.aspx",
+            "snippet": "Adresse : 6 avenue Maurice Levy, 33700 MÉRIGNAC. Numéro de RCS : 527 861 942. N° de TVA intracommunautaire : FR19527861942. Capital social : 6 000 €.",
+            "rating": 3,
+            "ratingCount": 98,
+            "position": 48
+        },
+        {
+            "title": "René Derhy - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700720.aspx",
+            "snippet": "Adresse : 6 - 8 rue du Faubourg Poissonnière 75010 PARIS. Numéro de RCS : PARIS 786509679. N° de TVA intracommunautaire : FR72786509679.",
+            "rating": 4.8,
+            "ratingCount": 20,
+            "position": 49
+        },
+        {
+            "title": "Alfred et Compagnie - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-12520.aspx",
+            "snippet": "Adresse : 44 rue Haddock, 59650 VILLENEUVE D'ASCQ. Numéro de RCS : 793 295 916. N° de TVA intracommunautaire : FR35793295916. Capital social : 40 000 €.",
+            "rating": 4.1,
+            "ratingCount": 10,
+            "position": 50
+        },
+        {
+            "title": "Sarenza - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-661701.aspx",
+            "snippet": "N° de TVA intracommunautaire : FR06480188507. Capital social : 122 138 643,29 €. Avis clients. 32. 2,7. (32). Ces avis sont authentiques et classés par ...",
+            "rating": 2.7,
+            "ratingCount": 32,
+            "position": 51
+        },
+        {
+            "title": "Edisac - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-2141.aspx",
+            "snippet": "N° de TVA intracommunautaire : FR 66 522 043 348. Capital social : 100 000 €. Avis clients. 50. 4,1. (50). Ces avis sont authentiques et classés par défaut ...",
+            "rating": 4.1,
+            "ratingCount": 50,
+            "position": 52
+        },
+        {
+            "title": "Made in Meubles - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700269.aspx",
+            "snippet": "Numéro de RCS : Lille Métropole 813 946 696. N° de TVA intracommunautaire : FR27813946696. Capital social : 252 000 €. Avis clients ...",
+            "rating": 3,
+            "ratingCount": 67,
+            "position": 53
+        },
+        {
+            "title": "Pier Import - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-11132.aspx",
+            "snippet": "Adresse : 66 rue Escudier 92100 BOULOGNE-BILLANCOURT. Numéro de RCS : 500 466 859. N° de TVA intracommunautaire : FR57500466859. Capital social : 591 000€.",
+            "rating": 3.7,
+            "ratingCount": 169,
+            "position": 54
+        },
+        {
+            "title": "Ard'Time - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700213.aspx",
+            "snippet": "Adresse : 56 Avenue du 11 Novembre 1918 , 69160 Tassin-La-Demi-Lune. Numéro de RCS : LYON 478 564 198. N° de TVA intracommunautaire : FR68478564198.",
+            "position": 55
+        },
+        {
+            "title": "Lightonline - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700264.aspx",
+            "snippet": "Adresse : 7 rue du 29 Juillet - 75001 PARIS. Numéro de RCS : PARIS 483 743 985. N° de TVA intracommunautaire : FR29483743985. Capital social : 6 332 982 €.",
+            "rating": 4.3,
+            "ratingCount": 170,
+            "position": 56
+        },
+        {
+            "title": "Dune London - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-11227.aspx",
+            "snippet": "Adresse : 9 HATTON STREET, LONDON, NW88PL, ENGLAND. Numéro de RCS : 795 935 364. N° de TVA intracommunautaire : GB 795 9353 64.",
+            "rating": 4.1,
+            "ratingCount": 116,
+            "position": 57
+        },
+        {
+            "title": "Madura - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-1745.aspx",
+            "snippet": "Siège social : 11 rue de Poissy 75005 PARIS. Adresse : 11 rue de Poissy 75005 PARIS. Numéro de RCS : 522420025. N° de TVA intracommunautaire : FR47522420025.",
+            "rating": 4.2,
+            "ratingCount": 67,
+            "position": 58
+        },
+        {
+            "title": "Nouveaux marchands - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-10911.aspx",
+            "snippet": "Siège social : 260 Avenue du Pic de Bertagne. Adresse : Numéro de RCS : 483551784. N° de TVA intracommunautaire : FR 91483551784. Capital social : 100000 €.",
+            "rating": 3.6,
+            "ratingCount": 713,
+            "position": 59
+        },
+        {
+            "title": "Banana VPC - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700218.aspx",
+            "snippet": "Adresse : Rue des Feugrais, ZE d'Hennequeville, 14360 TROUVILLE SUR MER. Numéro de RCS : LISIEUX 478 312 515. N° de TVA intracommunautaire : FR67478312515.",
+            "position": 60
+        },
+        {
+            "title": "Shopty - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-2672.aspx",
+            "snippet": "Siège social : Ponzano Veneto (Italie). Adresse : Via Ettore Majorana 2. Numéro de RCS : 343162. N° de TVA intracommunautaire : IT 04357520263.",
+            "rating": 4.1,
+            "ratingCount": 57,
+            "position": 61
+        },
+        {
+            "title": "Grain de Malice - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700062.aspx",
+            "snippet": "Numéro de RCS : LILLE METROPOLE 475 483 319. N° de TVA intracommunautaire : FR76475483319. Capital social : 6 789 784 €. Avis clients ...",
+            "rating": 3.8,
+            "ratingCount": 102,
+            "position": 62
+        },
+        {
+            "title": "Billabong - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-11657.aspx",
+            "snippet": "Adresse : 162 Rue Belharra – 64500 Saint-Jean-De-Luz. Numéro de RCS : Bayonne 331377036. N° de TVA intracommunautaire : FR 42 331 377 036.",
+            "rating": 3.3,
+            "ratingCount": 32,
+            "position": 63
+        },
+        {
+            "title": "Petit Béguin - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-1713.aspx",
+            "snippet": "Adresse : 26A rue des châteaux 59290 Wasquehal. Numéro de RCS : 823 978 457 00013. N° de TVA intracommunautaire : FR 908 239 784 57.",
+            "rating": 4.5,
+            "ratingCount": 251,
+            "position": 64
+        },
+        {
+            "title": "La Petite Etoile - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700462.aspx",
+            "snippet": "Adresse : 15 rue du Louvre, 75001 PARIS. Numéro de RCS : PARIS 891 836 991. N° de TVA intracommunautaire : FR46891836991. Capital social : 260 976 €.",
+            "rating": 4.6,
+            "ratingCount": 13,
+            "position": 65
+        },
+        {
+            "title": "VPC Boost - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-10074.aspx",
+            "snippet": "Adresse : 18 place Winston Churchill – 87000 LIMOGES. Numéro de RCS : 327 127 247. N° de TVA intracommunautaire : FR 64 327 127 247.",
+            "rating": 4.1,
+            "ratingCount": 252,
+            "position": 66
+        },
+        {
+            "title": "Hellin - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700246.aspx",
+            "snippet": "Adresse : 9001 rue Casimir Perier 59490 SOMAIN. Numéro de RCS : DOUAI 349 702 241. N° de TVA intracommunautaire : FR34349702241. Capital social : 244 000 €.",
+            "rating": 3.7,
+            "ratingCount": 58,
+            "position": 67
+        },
+        {
+            "title": "Decoration d'autrefois - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-10568.aspx",
+            "snippet": "Adresse : 2, rue de la Bécelle 77970 BANNOST-VILLEGAGNON. Numéro de RCS : MELUN 751 632 639. N° de TVA intracommunautaire : FR 39 751632639.",
+            "rating": 3.3,
+            "ratingCount": 44,
+            "position": 68
+        },
+        {
+            "title": "Meubles Cosy - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-659721.aspx",
+            "snippet": "Adresse : 46 rue des Vieilles Vignes 77183 CROISSY BEAUBOURG. Numéro de RCS : Meaux 825 141 898. N° de TVA intracommunautaire : FR62825141898.",
+            "rating": 4.6,
+            "ratingCount": 7,
+            "position": 69
+        },
+        {
+            "title": "Surf4shoes - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-2370.aspx",
+            "snippet": "Adresse : Numéro de RCS : Registre allemand : HRB 178404. N° de TVA intracommunautaire : DE357181665. Capital social : 25 000€. Avis clients ...",
+            "rating": 4.1,
+            "ratingCount": 448,
+            "position": 70
+        },
+        {
+            "title": "The Kooples - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-13699.aspx",
+            "snippet": "Siège social : 11 rue de Prony 75017 PARIS. Adresse : 11 rue de Prony 75017 PARIS. Numéro de RCS : 507 769 164. N° de TVA intracommunautaire : FR07507769164.",
+            "rating": 3.7,
+            "ratingCount": 15,
+            "position": 71
+        },
+        {
+            "title": "Balaboosté - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700659.aspx",
+            "snippet": "Adresse : 8 rue Bellini 76116 PARIS. Numéro de RCS : PARIS 326 446 747. N° de TVA intracommunautaire : FR26326446747. Capital social : 3 204 860 €.",
+            "rating": 4.7,
+            "ratingCount": 14,
+            "position": 72
+        },
+        {
+            "title": "CCV - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700667.aspx",
+            "snippet": "Adresse : Zone Inova, 10 Allée 9, 88150 CAPAVENIR. Numéro de RCS : DUNKERQUE 333 354 645. N° de TVA intracommunautaire : FR58333354645.",
+            "rating": 3,
+            "ratingCount": 6,
+            "position": 73
+        },
+        {
+            "title": "ReCollection - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700156.aspx",
+            "snippet": "Adresse : 3 La Cuisinerie, 44850 SAINT MARS DU DESERT. Numéro de RCS : Nantes 818 437 816. N° de TVA intracommunautaire : FR87818437816.",
+            "rating": 3.3,
+            "ratingCount": 55,
+            "position": 74
+        },
+        {
+            "title": "Coudre et broder - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-10163.aspx",
+            "snippet": "N° de TVA intracommunautaire : FR 35 413 596 982. Capital social : 144 920,00. Avis clients. 6. 4,2. (6). Ces avis sont authentiques et classés par défaut ...",
+            "rating": 4.2,
+            "ratingCount": 6,
+            "position": 75
+        },
+        {
+            "title": "Marc O Polo - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-13594.aspx",
+            "snippet": "Adresse : Hofgartenstr. 1, 83071 Stephanskirchen, Allemagne. Numéro de RCS : 156/116/05029. N° de TVA intracommunautaire : DE131 177 357.",
+            "rating": 4.6,
+            "ratingCount": 10,
+            "position": 76
+        },
+        {
+            "title": "Boboli - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-11115.aspx",
+            "snippet": "... 18-20 08450 Llinars del Vallès, BARCELONA, ESPAGNE. Numéro de RCS : Registre espagnol : A08697898. N° de TVA intracommunautaire : ESA08697898.",
+            "rating": 4.2,
+            "ratingCount": 27,
+            "position": 77
+        },
+        {
+            "title": "Minelli - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-660001.aspx",
+            "snippet": "N° de TVA intracommunautaire : FR13 413 157 306. Capital social : 84 924 548.50 €. Avis clients. 12. 2,1. (12). Ces avis sont authentiques et classés par ...",
+            "rating": 2.1,
+            "ratingCount": 12,
+            "position": 78
+        },
+        {
+            "title": "No Name - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-658223.aspx",
+            "snippet": "Adresse : 2 RUE DES BOUTONS D'OR 85 130 LA GAUBRETIERE. Numéro de RCS : La Roche Sur Yon B30264000800017. N° de TVA intracommunautaire : FR 36302640008.",
+            "rating": 3.7,
+            "ratingCount": 14,
+            "position": 79
+        },
+        {
+            "title": "Paprika - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-13629.aspx",
+            "snippet": "Adresse : Parc Industriel 9, 1440 BRAINE-LE-CHATEAU, BELGIQUE. Numéro de RCS : Registre belge : 0434.587.219. N° de TVA intracommunautaire : BE0434587219.",
+            "rating": 3.7,
+            "ratingCount": 36,
+            "position": 80
+        },
+        {
+            "title": "Red Deco - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700486.aspx",
+            "snippet": "Adresse : 112 Rue Ampere 13830 ROQUEFORT LA BEDOULE. Numéro de RCS : Marseille 451 950 943. N° de TVA intracommunautaire : FR33451950943.",
+            "rating": 4.2,
+            "ratingCount": 14,
+            "position": 81
+        },
+        {
+            "title": "Gabrielle Paris - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-660442.aspx",
+            "snippet": "Adresse : 27 A rue de la liberté 59650 VILLENEUVE D'ASCQ. Numéro de RCS : 818 438 590. N° de TVA intracommunautaire : FR81 818438590.",
+            "position": 82
+        },
+        {
+            "title": "Vanessa Wu - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700568.aspx",
+            "snippet": "Adresse : 38 rue Servan, 75011 PARIS. Numéro de RCS : PARIS 811 488 576. N° de TVA intracommunautaire : FR92811488576. Capital social : 10 000 €.",
+            "position": 83
+        },
+        {
+            "title": "Regatta Great Outdoors - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-658081.aspx",
+            "snippet": "... Mercury Way, Urmston, M41 7RR MANCHESTER, ROYAUME-UNI. Numéro de RCS : Registre anglais : 01063450. N° de TVA intracommunautaire : PL5263129082.",
+            "rating": 2.9,
+            "ratingCount": 31,
+            "position": 84
+        },
+        {
+            "title": "Design Best Seller - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-656341.aspx",
+            "snippet": "N° de TVA intracommunautaire : DE 287447788. Capital social : 35 228 €. Avis clients. Conditions de livraison. Délai de livraison. A partir du lendemain, ...",
+            "position": 85
+        },
+        {
+            "title": "Calida - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-12717.aspx",
+            "snippet": "Adresse : Hogeringer Strasse. 27, DE 83071 Stephanskirchen - Allemagne. Numéro de RCS : HRB 19548. N° de TVA intracommunautaire : DE 815 128 474.",
+            "rating": 4.2,
+            "ratingCount": 45,
+            "position": 86
+        },
+        {
+            "title": "Confort et loisirs - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-10582.aspx",
+            "snippet": "Adresse : 8C rue des frères Lumière ZI La Mouline 33560 CARBON BLANC. Numéro de RCS : BORDEAUX 511 781 718. N° de TVA intracommunautaire : FR66511781718.",
+            "rating": 3.7,
+            "ratingCount": 17,
+            "position": 87
+        },
+        {
+            "title": "Zendart Design - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-11103.aspx",
+            "snippet": "Adresse : 15, rue Jean Zay 69800 St Priest. Numéro de RCS : 797 668 662. N° de TVA intracommunautaire : FR 90 797 668 662. Capital social : 40000.",
+            "rating": 3.2,
+            "ratingCount": 44,
+            "position": 88
+        },
+        {
+            "title": "Yokono - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-661821.aspx",
+            "snippet": "Adresse : Calle Severo Ochoa 8 03203 ELCHE ESPAGNE. Numéro de RCS : B54756747. N° de TVA intracommunautaire : ESB54756747. Capital social : 3 005€.",
+            "position": 89
+        },
+        {
+            "title": "Gentleman Farmer - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700675.aspx",
+            "snippet": "Adresse : 38 avenue de Bobigny, 93130 NOISY-LE-SEC. Numéro de RCS : Bobigny 539 323 592. N° de TVA intracommunautaire : FR21539323592.",
+            "rating": 3.7,
+            "ratingCount": 45,
+            "position": 90
+        },
+        {
+            "title": "Rodier - Avis & produits - La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700158.aspx",
+            "snippet": "Adresse : 15 Avenue Victor-Hugo 75116 PARIS. Numéro de RCS : PARIS 453 162 398. N° de TVA intracommunautaire : FR02453162398. Capital social : 1 000 000 €.",
+            "rating": 4.3,
+            "ratingCount": 21,
+            "position": 91
+        },
+        {
+            "title": "Bleu Cerise - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-700028.aspx",
+            "snippet": "Adresse : 226 rue Louis Lépine, Pôle d'activité des Costières 30600 VAUVERT. Numéro de RCS : NIMES 300 990 686. N° de TVA intracommunautaire : FR40300990686.",
+            "rating": 4.6,
+            "ratingCount": 194,
+            "position": 92
+        },
+        {
+            "title": "Electronic Star - Avis & produits | La Redoute",
+            "link": "https://www.laredoute.fr/prtngp/vendor-11498.aspx",
+            "snippet": "Siège social : Wallstraße 16, 10179 Berlin - Allemagne. Adresse : Wallstraße 16, 10179 Berlin - Allemagne. N° de TVA intracommunautaire : DE 814 529 349.",
+            "rating": 3.6,
+            "ratingCount": 354,
+            "position": 93
+        }
+    ]
+}

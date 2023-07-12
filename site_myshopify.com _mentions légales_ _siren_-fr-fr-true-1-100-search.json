@@ -1,0 +1,666 @@
+{
+    "searchParameters": {
+        "q": "site:myshopify.com \"mentions légales\" \"siren\"",
+        "gl": "fr",
+        "hl": "fr",
+        "num": 100,
+        "autocorrect": true,
+        "page": 1,
+        "type": "search"
+    },
+    "organic": [
+        {
+            "title": "Mentions légales - Topinamour",
+            "link": "https://topinamour.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions légales ... Capital Social, 1 000 €. SIREN, 918 076 092. SIRET, 918 076 092 00017. Numéro de TVA, FR06918076092 ...",
+            "attributes": {
+                "SIREN": "918 076 092",
+                "Date de création": "Créée le 01/08/2022"
+            },
+            "position": 1
+        },
+        {
+            "title": "Mentions légales - L'Odaïtès",
+            "link": "http://odaites-4.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions légales. MENTIONS LÉGALES. Editeur ... N° SIREN : 5318 4279 700 015; N° TVA intracommunautaire : FR 415 31 84 27 97; Capital social : 165.000€ ...",
+            "position": 2
+        },
+        {
+            "title": "Mentions légales de l'entreprise de chaussures recyclées Saola",
+            "link": "https://saola-shoes-europe.myshopify.com/pages/mentions-legales",
+            "snippet": "Capital de la société : 10 000€ SIREN : 823 558 689 Contact : connect@saolashoes.c. ... Accueil; MENTIONS LÉGALES. Le site www.saolashoes.com est édité par ...",
+            "position": 3
+        },
+        {
+            "title": "E-store PAUEME I Toutes les mentions légales I paueme.com",
+            "link": "https://paueme.myshopify.com/pages/mentions-legales",
+            "snippet": "Siren 811568989 ... De la même façon, les mentions légales peuvent être modifiées à tout moment : elles s'imposent néanmoins à l'utilisateur qui est invité ...",
+            "position": 4
+        },
+        {
+            "title": "Mentions légales - KOPPO",
+            "link": "https://koppo-co.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions Légales ÉDITEUR ADMWATCHSASU au capital de 15 000 €SIREN 814 175 063 RCS Lons-le-SaunierNuméro de TVA Intracommunautaire : FR1781417506311 rue des ...",
+            "position": 5
+        },
+        {
+            "title": "Mentions légales - Le Cadeau Français",
+            "link": "https://le-cadeau-francais.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions légales ... SIREN : 433 115 904 RCS Paris. Siège social : 8 Rue de la Ville L'Eveque 75008 PARIS. N° de TVA Intracommunautaire : FR 35433115904.",
+            "position": 6
+        },
+        {
+            "title": "Mentions légales et CGU - Le Drive tout nu",
+            "link": "https://ldtn-landing.myshopify.com/pages/mentions-legales-et-cgu",
+            "snippet": "Mentions légales et CGU Editeur du site : Le Drive tout nu, SAS au capital de 85 ... Numéro SIREN : 844 120 212 Numéro individuel d'identification : FR78 844.",
+            "position": 7
+        },
+        {
+            "title": "Mentions Légales - moi Colibri",
+            "link": "https://moicolibri.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions Légales. #moiColibri. Adresse du siège social : 131 rue des Tappes - 13680 Lançon-Provece. FRANCE Siret: 491 854 915 00023. Siren : 491 854 915",
+            "position": 8
+        },
+        {
+            "title": "Mentions légales | John Rê Luxury",
+            "link": "https://john-re-luxury.myshopify.com/pages/mentions-legales",
+            "snippet": "Notre Histoire · Notre savoir-faire · BLOG · CONTACT · Accueil / Mentions légales ... SIREN : 912368701. RCS PARIS 912368701.",
+            "position": 9
+        },
+        {
+            "title": "Mentions légales - AnimaCase",
+            "link": "https://avenuesauvage.myshopify.com/pages/mentions-legales",
+            "snippet": "... Saint-Jacques de la lande 35136France support@animacase.fr SIREN : 824 656 912 Déclaration CNIL : 2109822v0 Conditions ... Mentions légales.",
+            "position": 10
+        },
+        {
+            "title": "Mentions légales – - L'Univers du Bain",
+            "link": "https://luniversdubain.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions Légales 212 avenue Jean d'Hers83160 La Valette du Var – N° SIRET (ou SIREN): 89469743200017 Le site luniversdubain.fr est hébergé chez Shopify ...",
+            "position": 11
+        },
+        {
+            "title": "Mention légales - FitFrenchies",
+            "link": "https://fitfrenchies-shop.myshopify.com/pages/mention-legales",
+            "snippet": "h1>Mentions légales</h1></br>Merci de lire avec attention les différentes modalités d'utilisation du présent site avant d'y ... Copier le n° de SIREN.",
+            "position": 12
+        },
+        {
+            "title": "Mentions légales - AUM WORLD®",
+            "link": "https://aum-world.myshopify.com/pages/mentions-legales",
+            "snippet": "MENTIONS LÉGALES ... SIREN : 851 454 199 R.C.S. Paris Numéro TVA intracommunautaire : FR 14 851 454 199. Adresse de courrier électronique ...",
+            "position": 13
+        },
+        {
+            "title": "Mentions légales - Bijoux4men",
+            "link": "https://bijoux4men.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions légales. B4MEN SIREN 528692940 145 chemin de Choulans 69005 Lyon contact@bijoux4men.com. Tel: 0426282775. Code APE : 4799A",
+            "position": 14
+        },
+        {
+            "title": "Mentions legales - GL BOUTIK",
+            "link": "https://gl-boutik.myshopify.com/pages/mentions-legales",
+            "snippet": "Siret: 79935344600013 Siren: 799 353 446 Téléphone: +33 6 31 53 94 74 (coût d'appel national non surtaxé) E-mail : contact@glbo. ... Mentions legales.",
+            "position": 15
+        },
+        {
+            "title": "Mentions légales - Boutique du Marquage",
+            "link": "https://boutique-du-marquage.myshopify.com/pages/contact",
+            "snippet": "... d'Expl.) - 16320 Ronsenac - France - N° TVA intra FR42328170410 - SIREN 328170410 - RCS Angoulême - Capital de 49.450€ - APE 1812Z. ... Mentions légales.",
+            "position": 16
+        },
+        {
+            "title": "Mentions légales - Parcel Tiny House",
+            "link": "https://parceltinyhouse-boncadeau.myshopify.com/pages/mentions-legales",
+            "snippet": "Informations générales Mentions légales du site ... au capital de 10 000 €Enregistré au RCS Bordeaux sous le numéro SIREN 882 190 986Siege social : 151 rue.",
+            "position": 17
+        },
+        {
+            "title": "Mentions Légales Zelda Bijoux- Grossiste Parisien de bijoux féminins",
+            "link": "https://zelda-bijoux.myshopify.com/pages/mentions-legales-zelda-bijoux-grossiste-parisien-de-bijoux-feminins",
+            "snippet": "Mentions Légales Zelda Bijoux- Grossiste Parisien de bijoux féminins. Editeur du site : ZDM ... Siret : 48402299100034. Siren : 484 022 991 ...",
+            "position": 18
+        },
+        {
+            "title": "Mentions légales - Le Tanneur",
+            "link": "https://letanneur.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions légales ... PARIS (8), SIREN : 414 433 797, CODE APE : 4772B, TVA intracommunautaire: FR 23 414433797, ci-après dénommé Le Tanneur & Cie.",
+            "position": 19
+        },
+        {
+            "title": "Mentions Légales - Imane Harmonie",
+            "link": "https://imane-harmonie-shop.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions Légales. Le site internet www.imaneharmonie.com est édité par la société Imane Harmonie S.A.S.U immatriculée au RCS de Meau sous le n° de SIREN ...",
+            "position": 20
+        },
+        {
+            "title": "Mentions légales - MOREL Lunettes",
+            "link": "https://morel-france.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions légales ... des Buclets à MORBIER (39400), RCS LONS LE SAUNIER, numéro SIREN 646 350 231 représentée par Jérôme MOREL, en sa qualité de Président.",
+            "position": 21
+        },
+        {
+            "title": "Mentions légales – Onlap-Music",
+            "link": "https://onlap-music.myshopify.com/pages/onlap-family",
+            "snippet": "Mentions Légales INTRODUCTION Le site https://onlap-music.myshopify.com est ... le numéro de SIREN : 841 009 145 SIEGE SOCIAL ET ADRESSE POSTALE Association ...",
+            "position": 22
+        },
+        {
+            "title": "Mentions légales - soeurs.ach.beauty",
+            "link": "https://soeurs-ach-beauty.myshopify.com/fr-es/policies/legal-notice",
+            "snippet": "Mentions légales ... Conditions générales de vente : Entreprise enregistrée à la chambre des commerces N° SIREN : 834423287. Les prix affichés sur le site.",
+            "position": 23
+        },
+        {
+            "title": "Informations légales - MAISON DÉCALÉ",
+            "link": "https://maisondecale.myshopify.com/pages/informations-legales",
+            "snippet": "Mentions légales Coordonnées MAISON DÉCALÉ Tél. : 02 76 51 82 90 Siège ... MONT SAINT-AIGNAN Cedex N° SIRET : 843 461 831 00011 N° SIREN : 843 461 831 RCS ...",
+            "position": 24
+        },
+        {
+            "title": "Mentions légales – E-shop Bleu tango",
+            "link": "https://bleu-tango-e-shop.myshopify.com/pages/mentions-legales",
+            "snippet": "MENTIONS LÉGALES, POLITIQUE DE CONFIDENTIALITÉ ET CONDITIONS GÉNÉRALES DE VENTE ... RCS 793 519 884 Paris - Siret : 793 510 884 00034 - Siren : 793 510 884",
+            "position": 25
+        },
+        {
+            "title": "Mentions légales & CGV/CGU - Vinyl Waller",
+            "link": "https://vinyl-waller.myshopify.com/pages/mentions-legales-cgv-cgu",
+            "snippet": "Mentions légales & CGV/CGU ... SIREN 42411265400019. N° de TVA : FR32424112654. Site web hébergé par OVH : 2 rue Kellermann – 59100 Roubaix – France ...",
+            "position": 26
+        },
+        {
+            "title": "CGV et Mentions légales - PERLIE BY W",
+            "link": "https://perlie-by-w.myshopify.com/pages/cgv",
+            "snippet": "CGV et Mentions légales. INFORMATIONS LEGALES ... Entreprise inscrite au registre du commerce et des sociétés sous le SIREN : 852 594 043. Adresse : Lyon.",
+            "position": 27
+        },
+        {
+            "title": "Siren Milanese - Doré uni - Nixon",
+            "link": "https://nixon-ca.myshopify.com/fr/products/siren-milanese-all-gold",
+            "snippet": "La Siren allie design accrocheur et attitude téméraire. ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.7,
+            "ratingCount": 48,
+            "position": 28
+        },
+        {
+            "title": "Contact et Mentions légales - Le Coach Basket",
+            "link": "http://le-coach-basket.myshopify.com/pages/page-2",
+            "snippet": "... JAILLANS - FRANCE Téléphone: 01 85 08 98 17 mail: contact@lecoachbasket.com www.lecoachbasket.com Mentions Légales SF ... Identifiant SIREN: 808 355 606.",
+            "position": 29
+        },
+        {
+            "title": "Mentions légales - Restaurant L'Ours",
+            "link": "https://restaurant-lours.myshopify.com/pages/mentions-legales",
+            "snippet": "MENTIONS LÉGALES Siège social : 2 rue de la Couronne - 67240 Bischwiller Registre du commerce et des sociétés de Strasbourg SIREN 533 047 320 SIRET (siège) ...",
+            "position": 30
+        },
+        {
+            "title": "Mentions Légales - Varionet.com",
+            "link": "https://cool-blue-com.myshopify.com/pages/mentions-legales",
+            "snippet": "Siren: 537 782 088. Déclaration CNIL n°1553947. Mentions Légales. Le renseignement des informations nominatives collectées aux fins de la vente à distance ...",
+            "position": 31
+        },
+        {
+            "title": "Mentions légales - Grossiste Bijouxmode",
+            "link": "https://d2e5b8-2.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions légales. FTH diffusion. Société A Responsabilité Limitée au capital de 45000 €. Siret : 75181929300034. Siren : 751 819 293.",
+            "position": 32
+        },
+        {
+            "title": "Montre Siren Acier | Or Rose / Noir | Numérique de surf spécial marées - Nixon",
+            "link": "https://nixon-ca.myshopify.com/fr/products/siren-stainless-steel-rose-gold-black",
+            "snippet": "La Siren allie design accrocheur et attitude téméraire. ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.7,
+            "ratingCount": 61,
+            "position": 33
+        },
+        {
+            "title": "Mentions légales - LED World PRO",
+            "link": "https://led-world-pro.myshopify.com/pages/mentions-legales",
+            "snippet": "... du site sont soumis aux présentes «Mentions légales» détaillés ci-après. ... France RCS Evreux SIREN 847645819 - APE 4690Z - TVA Intra FR19847645819 ...",
+            "position": 34
+        },
+        {
+            "title": "Mentions légales – DOUBLE V",
+            "link": "https://double-v-piscine.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions légales ... Numéro d'immatriculation au RCS: RCS : Registre du commerce et des sociétés et/ou numéro Siren; Mail et numéro de téléphone pour ...",
+            "position": 35
+        },
+        {
+            "title": "Mentions légales - Shopideals",
+            "link": "https://shopidealsfrance.myshopify.com/pages/mentions-legales",
+            "snippet": "Mentions légales. I. Ce site internet est édité par la Rudy Foret sous le numéro siren : 45408458300037, dont le siège social est situé 15 rue des tilleuls ...",
+            "position": 36
+        },
+        {
+            "title": "Montre Siren Acier | Doré / Blanc | Numérique de surf spécial marées – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/siren-stainless-steel-gold-white",
+            "snippet": "La Siren allie design accrocheur et attitude téméraire. ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.7,
+            "ratingCount": 61,
+            "position": 37
+        },
+        {
+            "title": "MENTIONS LÉGALES – Hand Bliss",
+            "link": "https://latreiziemeboutique-3.myshopify.com/pages/mentions-legales",
+            "snippet": "MENTIONS LÉGALES. Le Site est édité par FrenchEcom, dont le siège social est situé au 60 rue François 1er 75008 Paris. Numéro de Siren : 901603662",
+            "position": 38
+        },
+        {
+            "title": "Montre Siren Acier | Argenté / Iridescent | Numérique de surf spécial marées – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/siren-stainless-steel-silver-iridescent",
+            "snippet": "La Siren allie design accrocheur et attitude téméraire. ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.7,
+            "ratingCount": 61,
+            "position": 39
+        },
+        {
+            "title": "Montre Siren Acier | Doré / Noir Lh | Numérique de surf spécial marées – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/siren-stainless-steel-gold-black-lh",
+            "snippet": "La Siren allie design accrocheur et attitude téméraire. ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.7,
+            "ratingCount": 61,
+            "position": 40
+        },
+        {
+            "title": "Montre Siren Acier | Argenté / Gris Marbré | Numérique de surf spécial marées - Nixon",
+            "link": "https://nixon-ca.myshopify.com/fr/products/siren-stainless-steel-silver-gray-marble",
+            "snippet": "La Siren allie design accrocheur et attitude téméraire. ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.7,
+            "ratingCount": 61,
+            "position": 41
+        },
+        {
+            "title": "Politique de confidentialité - Imane Harmonie",
+            "link": "https://imane-harmonie-shop.myshopify.com/pages/politique-de-confidentialite",
+            "snippet": "... immatriculée au RCS de Meaux sous le n° de SIREN 887971133, dont le siège est situé 18. ... CGV · Politique d'expédition · Mentions Légales · Contact ...",
+            "position": 42
+        },
+        {
+            "title": "Suivi de l'état de la commande - Mes Petits Bijoux",
+            "link": "https://nospetisecrets.myshopify.com/apps/track123",
+            "snippet": "Liens rapides. Recherche · Mentions Légales · Conditions d'utilisation · Politique de remboursement. Parlez de votre entreprise. SIREN : 532 825 239.",
+            "position": 43
+        },
+        {
+            "title": "Cadeaux pour elle | Montres et plus – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/collections/gifts-for-her",
+            "snippet": "Siren - Carapace de tortue ... Conditions Générales|; Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 44
+        },
+        {
+            "title": "Conditions générales de Ventes - Heya&co",
+            "link": "https://heya-and-co.myshopify.com/pages/conditions-generales",
+            "snippet": "... inscrite sous le numéro de SIREN 852213180 dont le siège social est situé 13 rue bertie ... ARTICLE 1 – SOCIETE & MENTIONS LEGALES.",
+            "date": "20 nov. 2019",
+            "position": 45
+        },
+        {
+            "title": "MENTIONS LÉGALES ET CGV – MATTA - GOAT Vintage Shop",
+            "link": "https://stockroom-fr.myshopify.com/pages/mentions-legales-et-cgv",
+            "snippet": "MENTIONS LÉGALES : Le présent site shopmatta.fr est la propriété de la société DOOM Corp. Inscription au Registre du Commerce et des Société de Lyon. SIREN ...",
+            "position": 46
+        },
+        {
+            "title": "Scorpion Heterometrus cyaneus / Boite transparente",
+            "link": "https://6pattes-en-scene.myshopify.com/products/boite-transparente-scorpion-heterometrus-cyaneus",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 47
+        },
+        {
+            "title": "Cétoine rouge Torynorrhina flammea (coléoptère) / Cadre noir",
+            "link": "https://6pattes-en-scene.myshopify.com/products/c%C3%A9toine-rouge-torynorrhina-flammea-col%C3%A9opt%C3%A8re-cadre-noir",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 48
+        },
+        {
+            "title": "Papillon exotique Papilio xuthus / Cadre bois",
+            "link": "https://6pattes-en-scene.myshopify.com/products/papillon-exotique-papilio-xuthus-cadre-bois",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 49
+        },
+        {
+            "title": "Papillon zébré Eurytides protesilaus / Cadre bois plusieurs finitions",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-bois-papillon-z%C3%A9br%C3%A9-euritydes-protesilaus",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 50
+        },
+        {
+            "title": "Papillon Morpho didius / Cadre plusieurs finitions",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-noir-papillon-morpho-godarti-didius",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 51
+        },
+        {
+            "title": "Papillon exotique Papilio blumei / Cadre noir diverses tailles",
+            "link": "https://6pattes-en-scene.myshopify.com/products/papillon-exotique-papilio-blumei-cadre-noir",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 52
+        },
+        {
+            "title": "Mante \"feuille\" exotique Deroplatys desicata / Cadre bois",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-blanchi-mante-feuille-exotique-deroplatys-desicata",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "rating": 5,
+            "ratingCount": 1,
+            "position": 53
+        },
+        {
+            "title": "Papillon exotique Papilio demodocus / Cadre noir",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-noir-papillon-exotique-papilio-demodocus",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 54
+        },
+        {
+            "title": "Bottines Karma of Charme - Maison Jeanne Grâce",
+            "link": "https://maisonjeannegrace.myshopify.com/products/bottines-karma-of-charms",
+            "snippet": "Mentions légales. SARL Jeanne Grâce ; Siège social 1 rue du Marché Notre Dame 86000 Poitiers - Num Siren 905351169 - TVA: FR72905351169 ...",
+            "position": 55
+        },
+        {
+            "title": "Papillon irisé Morpho helenor montezuma/ Cadre noir",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-noir-papillon-bleu-barr%C3%A9-morpho-helenor",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 56
+        },
+        {
+            "title": "Phasme géant Eurycnema versirubra sur bambou / Cadre noir",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-noir-phasme-g%C3%A9ant-eurycnema-versirubra-sur-bambou",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 57
+        },
+        {
+            "title": "Horloge noire papillon Cymothoe sangaris",
+            "link": "https://6pattes-en-scene.myshopify.com/products/horloge-noire-papillon-cymothoe-sangaris",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 58
+        },
+        {
+            "title": "Papillon Morpho godarti assarpai / Cadre bois plusieurs finitions",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-gris-papillon-morpho-godarti",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 59
+        },
+        {
+            "title": "Casquette Strapback Quinny | Noir – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/quinny-strapback-black",
+            "snippet": "Siren. $165.00. (41). Hannah Eddy Time Teller OPP - Blanc ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 60
+        },
+        {
+            "title": "Jean Fitté Femme YOPDAY American Vintage - Maison Jeanne Grâce",
+            "link": "https://maisonjeannegrace.myshopify.com/products/jean-fitte-femme-yopday-american-vintage",
+            "snippet": "Mentions légales. SARL Jeanne Grâce ; Siège social 1 rue du Marché Notre Dame 86000 Poitiers - Num Siren 905351169 - TVA: FR72905351169 ...",
+            "position": 61
+        },
+        {
+            "title": "Papillon \"Empereur du Japon\" Sasakia charonda / Cadre diverses finitions",
+            "link": "https://6pattes-en-scene.myshopify.com/products/papillon-empereur-du-japon-sasakia-charonda-cadre-noir",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 62
+        },
+        {
+            "title": "Papillon exotique Papilio peranthus / Cadre noir",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-noir-papillon-exotique-papilio-peranthus",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 63
+        },
+        {
+            "title": "Lucane Lamprima adolphinae (coléoptère) / Cadre plusieurs finitions",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-noir-lucane-lamprima-adolphinae-col%C3%A9opt%C3%A8re",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "rating": 5,
+            "ratingCount": 1,
+            "position": 64
+        },
+        {
+            "title": "Pack It Out Trucker - Nixon",
+            "link": "https://nixon-ca.myshopify.com/fr/products/pack-it-out-trucker-navy-navy",
+            "snippet": "Siren. $165.00. (22). Nixon Regulus Stainless Steel All Black View 1 ... Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 65
+        },
+        {
+            "title": "Papillon Morpho menelaus alexandrovna / Cadre bois plusieurs finitions",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-bois-papillon-morpho-menelaus-alexandrovna",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 66
+        },
+        {
+            "title": "Casquette Snapback Yorker | Noir – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/yorker-snapback-hat-black",
+            "snippet": "Siren. $165.00. (41). Sac à dos Landlock 4 - Vert olive. Durable ... Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 67
+        },
+        {
+            "title": "Impression carte de visite - Confliktarts",
+            "link": "https://confliktarts-shop.myshopify.com/collections/cartes-de-visites",
+            "snippet": "Livraison · Mentions légales · Conditions générales de vente et de production · Politique de confidentialité ... RCS Rennes SIREN 492 539 523",
+            "position": 68
+        },
+        {
+            "title": "Couple de papillons Morpho peleides / Cadre plusieurs finitions",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-argent-couple-papillons-morpho",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 69
+        },
+        {
+            "title": "Mes Petits Bijoux – mespetitsbijoux.com",
+            "link": "https://nospetisecrets.myshopify.com/",
+            "snippet": "Liens rapides. Recherche · Mentions Légales · Conditions d'utilisation · Politique de remboursement. Parlez de votre entreprise. SIREN : 532 825 239.",
+            "position": 70
+        },
+        {
+            "title": "Phasme \"feuille\" Phyllium indonésien / Cadre noir",
+            "link": "https://6pattes-en-scene.myshopify.com/products/cadre-noir-phasme-feuille-phyllium-indon%C3%A9sien",
+            "snippet": "Conseils d'utilisation · Expéditions · Conditions générales de vente · Mentions légales · Politique de confidentialité ... Siren 752911826.",
+            "position": 71
+        },
+        {
+            "title": "Casquette Krakta Strapback | Gris / Bleu – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/krakta-strapback-gray-blue",
+            "snippet": "Siren. $165.00. (22). Independent Time Teller - Argenté uni ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 72
+        },
+        {
+            "title": "Montre Sentry Cuir | Doré / Blanc / Marron Clair | Hommes – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/sentry-leather-gold-white-saddle",
+            "snippet": "Siren Acier - Or rose / noir ... Conditions Générales|; Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.7,
+            "ratingCount": 66,
+            "position": 73
+        },
+        {
+            "title": "Contact Service Client - SockUp",
+            "link": "https://bar-a-chaussettes.myshopify.com/pages/contact",
+            "snippet": "Devenir Revendeur · Le Blog · CGV · Livraison · Mentions Légales · Conditions d'utilisation ... Société Française - N°SIREN 907781827. \"Fermer (Esc)\".",
+            "position": 74
+        },
+        {
+            "title": "Bonnet Timmy | Gris Multicolore – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/timmy-beanie-gray-multi",
+            "snippet": "Siren. $165.00. (23). Santa Cruz Time Teller - Noir / argent ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 75
+        },
+        {
+            "title": "Portefeuille avec porte-monnaie Pass en cuir - Marron clair - Nixon",
+            "link": "https://nixon-ca.myshopify.com/fr/products/pass-leather-coin-wallet-saddle",
+            "snippet": "Siren Acier - Or rose / noir ... Conditions Générales|; Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.8,
+            "ratingCount": 27,
+            "position": 76
+        },
+        {
+            "title": "CGV - Monster",
+            "link": "https://monsterproduct-eu.myshopify.com/pages/cgv",
+            "snippet": "... au registre du commerce et des sociétés sous le numéro SIREN 307301135. ... CGV · Livraison et retours · Mentions légales · A propos de Monster ...",
+            "position": 77
+        },
+        {
+            "title": "Smith Backpack - Nixon",
+            "link": "https://nixon-ca.myshopify.com/fr/products/smith-backpack-navy",
+            "snippet": "Nixon Siren Stainless Steel Rose Gold / Black View 1 ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 5,
+            "ratingCount": 2,
+            "position": 78
+        },
+        {
+            "title": "Comment changer l'heure de votre Nixon | Manuels des montres",
+            "link": "https://nixon-ca.myshopify.com/fr/pages/watch-instructions",
+            "snippet": "... Re-Run Rhythm Ripley Rival Siren Staple Superhero Supertide Ultratide Unit ... Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 79
+        },
+        {
+            "title": "Banane Sidekick | Noir – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/sidekick-hip-pack-black",
+            "snippet": "Siren Acier - Or rose / noir ... Conditions Générales|; Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.5,
+            "ratingCount": 2,
+            "position": 80
+        },
+        {
+            "title": "Sweat Shift | Noir – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/shift-crew-sweatshirt-black",
+            "snippet": "Siren - Carapace de tortue ... Conditions Générales|; Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 5,
+            "ratingCount": 1,
+            "position": 81
+        },
+        {
+            "title": "Casquette Strapback Flight | Vert Olive / Blanc – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/flight-strapback-hat-olive-white",
+            "snippet": "Siren. $165.00 ... Confidentialité|; Conditions Générales|; Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 82
+        },
+        {
+            "title": "Casquette Trucker Good Times | Woodland Camo – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/good-times-trucker-hat-woodland-camo",
+            "snippet": "Siren. $165.00. (23). Sentry Cuir - Noir mat / doré ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.5,
+            "ratingCount": 2,
+            "position": 83
+        },
+        {
+            "title": "Casquette Snapback Exchange | Vert Olive / Kaki – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/exchange-snapback-hat-olive-khaki",
+            "snippet": "Siren. $165.00. (22). Time Teller OPP - Olive Speckle. Durable ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.8,
+            "ratingCount": 8,
+            "position": 84
+        },
+        {
+            "title": "Casquette Byron Foam Trucker | Blanc / Noir – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/byron-foam-trucker-hat-white-black",
+            "snippet": "Siren. $165.00. (22). Sentry Stainless Steel - Bronze / Black. New Color ... Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.8,
+            "ratingCount": 10,
+            "position": 85
+        },
+        {
+            "title": "Sac à Dos Ransack 26L - Millerain Tan / Noir - Nixon",
+            "link": "https://nixon-ca.myshopify.com/fr/products/ransack-backpack-millerain-tan-black",
+            "snippet": "Siren. $165.00. (23). Spectra - Noir / noir ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|. © 2023 Nixon Inc.",
+            "rating": 4.8,
+            "ratingCount": 14,
+            "position": 86
+        },
+        {
+            "title": "Montre Staple | Noir / doré | Numérique – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/staple-black-gold",
+            "snippet": "Siren Acier - Or rose / noir ... Conditions Générales|; Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.8,
+            "ratingCount": 41,
+            "position": 87
+        },
+        {
+            "title": "Montre Corporal Acier | Sand / Noir | Hommes – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/corporal-stainless-steel-sand-black",
+            "snippet": "$50.00. Nixon Siren Stainless Steel Rose Gold / Black View 1 ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.5,
+            "ratingCount": 25,
+            "position": 88
+        },
+        {
+            "title": "Sac à Dos Ransack 26L - Ocre - Nixon",
+            "link": "https://nixon-ca.myshopify.com/fr/products/ransack-backpack-sahara",
+            "snippet": "Siren Acier - Or rose / noir ... Conditions Générales|; Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.8,
+            "ratingCount": 14,
+            "position": 89
+        },
+        {
+            "title": "Tee-Shirt Burner | Noir – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/burner-t-shirt-black",
+            "snippet": "Siren. $165.00. (22). Sentry Stainless Steel - Bronze / Black. New Color ... Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 5,
+            "ratingCount": 1,
+            "position": 90
+        },
+        {
+            "title": "Casquette Strapback Rangel | Vintage Orange – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/rangel-strapback-vintage-orange",
+            "snippet": "Siren. $165.00. (23). Time Teller - Doré uni / doré ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 5,
+            "ratingCount": 1,
+            "position": 91
+        },
+        {
+            "title": "Bracelet de montre en cuir d'ananas de 16 mm | Doré Brillant – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/16mm-pineapple-leather-band-gold-foil",
+            "snippet": "Siren Milanese - Doré uni ... Conditions Générales|; Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 92
+        },
+        {
+            "title": "Sac à Dos Smith | Noir / Noir – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/smith-backpack-black-black",
+            "snippet": "Siren. $165.00. (41). Casquette Camionneur Iconed - Noir / noir ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 5,
+            "ratingCount": 2,
+            "position": 93
+        },
+        {
+            "title": "Tee-Shirt Heatwave | Noir – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/heatwave-t-shirt-black",
+            "snippet": "Siren. $165.00. (23). Sac à dos Landlock 4 - Vert olive. Durable ... Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 5,
+            "ratingCount": 1,
+            "position": 94
+        },
+        {
+            "title": "Montre Time Tracker | Copper / Gris Métallisé Mat | Hommes – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/time-tracker-matte-copper-gunmetal",
+            "snippet": "Siren. $165.00. (41). Time Teller - Silver / Turquoise. Nouvelle couleur ... Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 4.9,
+            "ratingCount": 10,
+            "position": 95
+        },
+        {
+            "title": "Impression cartes postales | Imprimerie en ligne | Conflikt Arts – Confliktarts",
+            "link": "https://confliktarts-shop.myshopify.com/collections/carte-postale",
+            "snippet": "Livraison · Mentions légales · Conditions générales de vente et de production · Politique de confidentialité ... RCS Rennes SIREN 492 539 523",
+            "position": 96
+        },
+        {
+            "title": "Casquette Snapback Sessions | Vert Olive – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/sessions-snapback-hat-olive",
+            "snippet": "Siren. $165.00. (23). Corporal Acier - Noir uni ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "position": 97
+        },
+        {
+            "title": "Montre 5th Element | Noir / Gris Métallisé | Automatique – Nixon CA",
+            "link": "https://nixon-ca.myshopify.com/fr/products/5th-element-black-gunmetal",
+            "snippet": "Siren. $165.00. (23). Time Teller - Doré uni / doré ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 5,
+            "ratingCount": 9,
+            "position": 98
+        },
+        {
+            "title": "Grateful Dead 23mm Recycled Band - Nixon",
+            "link": "https://nixon-ca.myshopify.com/fr/products/grateful-dead-23mm-recycled-band-black-blue-green",
+            "snippet": "Siren. $165.00. (23). 51-30 Chrono - Noir mat uni / noir ... Points De Vente|; Unauthorized Dealer Alert|; Responsabilité Sociale|; Mentions Légales|.",
+            "rating": 5,
+            "ratingCount": 1,
+            "position": 99
+        }
+    ]
+}
